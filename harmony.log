@@ -1,0 +1,58 @@
+Harmony.dll v1.1.1 eingebunden
+   Application.Initialize
+   Application.CreateForm(TForm1, Form1)
+Found MS Windows NT Kernel (2) Vers: 6.2
+-> Using mciqtz32.drv
+ScriptAction mcicommand registriert.
+ScriptAction writetolog registriert.
+ScriptAction execprogram registriert.
+ScriptAction miditickfunction registriert.
+ScriptAction addoutput registriert.
+HarmonyCreate erfolgreich ausgefuehrt
+HarmonyInitMidi erfolgreich ausgefuehrt
+HarmonyInitWave erfolgreich ausgefuehrt
+HarmonyReserveSound(E:\ASCII\RPG2000\RTP\Sound\Cold4.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(F:\RPG Maker\Projects\Saints of Athena RM2K9\Sound\SE_Andromeda_Chain_Noise.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(E:\ASCII\RPG2000\RTP\Sound\Numbness1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(E:\ASCII\RPG2000\RTP\Sound\Cold1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(E:\ASCII\RPG2000\RTP\Sound\Cold4.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(F:\RPG Maker\Projects\Saints of Athena RM2K9\Sound\SE_Andromeda_Chain_Noise.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(E:\ASCII\RPG2000\RTP\Sound\Numbness1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(E:\ASCII\RPG2000\RTP\Sound\Cold1.wav) erfolgreich ausgefuehrt
+HarmonyStopMusic gestartet
+HarmonyStopMusic erfolgreich ausgefuehrt
+HarmonyStopSound aufgerufen
+original HarmonyStopSound wird ausgefuehrt
+HarmonyStopSound erfolgreich ausgefuehrt.
+HarmonyReserveSound(E:\ASCII\RPG2000\RTP\Sound\Cold4.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(F:\RPG Maker\Projects\Saints of Athena RM2K9\Sound\SE_Andromeda_Chain_Noise.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(E:\ASCII\RPG2000\RTP\Sound\Numbness1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(E:\ASCII\RPG2000\RTP\Sound\Cold1.wav) erfolgreich ausgefuehrt
+HarmonyPlayMusic(F:\RPG Maker\Projects\Saints of Athena RM2K9\Music\0001_Title_12PalaceShowdown.wav) gestartet
+HarmonyPlayMusic(F:\RPG Maker\Projects\Saints of Athena RM2K9\Music\0001_Title_12PalaceShowdown.wav) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(90) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(F:\RPG Maker\Projects\Saints of Athena RM2K9\Sound\SE_Andromeda_Chain_Noise.wav,80,120,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyFadeOutMusic(800 erfolgreich ausgefuehrt
+HarmonyStopMusic gestartet
+HarmonyStopMusic erfolgreich ausgefuehrt
+HarmonyReserveSound(E:\ASCII\RPG2000\RTP\Sound\Cold4.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(F:\RPG Maker\Projects\Saints of Athena RM2K9\Sound\SE_Andromeda_Chain_Noise.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(E:\ASCII\RPG2000\RTP\Sound\Numbness1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(E:\ASCII\RPG2000\RTP\Sound\Cold1.wav) erfolgreich ausgefuehrt
+HarmonyCancelSound(F:\RPG Maker\Projects\Saints of Athena RM2K9\Sound\SE_Andromeda_Chain_Noise.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(E:\ASCII\RPG2000\RTP\Sound\Key.wav) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(E:\ASCII\RPG2000\RTP\Sound\Key.wav,60,150,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlayMusic(F:\RPG Maker\Projects\Saints of Athena RM2K9\Music\SEclockticking.wav) gestartet
+HarmonyPlayMusic(F:\RPG Maker\Projects\Saints of Athena RM2K9\Music\SEclockticking.wav) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(3000) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(40) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(80) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyRelease erfolgreich ausgefuehrt
